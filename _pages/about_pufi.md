@@ -1,0 +1,1 @@
+Sofia is an outstanding individual and dedicated professional with interests in Computer Graphics and Shape Modeling.
