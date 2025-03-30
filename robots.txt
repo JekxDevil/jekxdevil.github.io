@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jekxdevil.github.io/sitemap.xml
+Sitemap: https://jefersonmm.com/sitemap.xml
