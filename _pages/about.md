@@ -28,8 +28,8 @@ latest_posts:
 ---
 
 
-I am a Master's student in Computer Science, majoring in Artificial Intelligence at [ETH Zurich](ethz.ch/en.html).
-I obtained my Bachelor's degree at [USI - Università della Svizzera italiana](usi.ch/en), where I had the opportunity to work as an Undergraduate Research Assistant and Teaching Assistant.
+I am a Master's student in Computer Science, majoring in Artificial Intelligence at [ETH Zurich](https://ethz.ch/en.html).
+I obtained my Bachelor's degree at [USI - Università della Svizzera italiana](https://usi.ch/en), where I had the opportunity to work as an Undergraduate Research Assistant and Teaching Assistant.
 
 My interests focus on general purpose AI systems capable of solving useful decision making tasks across different real-world environments.
 Applications in healthcare to increase social and financial equality is my primary objective. 
